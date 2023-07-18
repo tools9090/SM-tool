@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-setuptools = "^59.0"
+setuptools = "^59.0.1"
 poetry = "^1.5.1"
 cython = "^3.0.0"
 whitenoise = {extras = ["brotli"], version = "^6.5.0"}
