@@ -2,7 +2,6 @@
 # exit on error
 set -o errexit
 
-poetry install
 
 # Install Dependencies
 pip install -r requirements.txt
